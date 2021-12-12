@@ -1,5 +1,5 @@
 # Great_circle_distance_Calculator
-Calculates the great circle distance, the angles of the spherical triangle, and the spherical excess. Step by step.
+Calculates the great circle distance on the Earth, the angles of the spherical triangle, and the spherical excess. Step by step.
 distance calculator.c	----Source code
 distance calculator.exe	----Compiled C
 definitions.pdf			----definitions of the Great circle distance (2-point shortest distance)
